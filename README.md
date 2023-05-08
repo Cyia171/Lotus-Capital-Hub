@@ -1,6 +1,6 @@
 # IDO Launchpad
 
-The IDO Launchpad is a decentralized platform designed for Initial DEX Offerings (IDO) inspired by PancakeSwap and built using Solidity on the Binance Smart Chain (BSC) blockchain.
+The IDO Launchpad is a decentralized platform designed for Initial DEX Offerings (IDO) inspired by PancakeSwap and built using Solidity on the BNB Chain (BNB) blockchain.
 
 ## About Lotus Capital Hub
 
