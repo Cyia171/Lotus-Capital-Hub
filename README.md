@@ -25,7 +25,7 @@ Before you can access the IDO Launchpad, you must complete KYC/AML verification 
 2. Once connected, you can browse through the available IDO projects and invest in your preferred project.
 
 ## Technical Implementation
-The IDO Launchpad platform is built using TypeScript and JavaScript for the front-end, and Solidity for the smart contracts on the BNB Chain. The user interface is developed using HTML, CSS, and JavaScript frameworks such as React and Redux. Currently, the platform is hosted on Netlify, but we are planning to move to IPFS for decentralized and distributed hosting.
+The front-end of the IDO Launchpad platform is built using TypeScript and JavaScript, with HTML, CSS, and JavaScript frameworks such as React and Redux for the user interface. The smart contracts for the BNB Chain are implemented in Solidity and are stored in separate repositories. Currently, the platform is hosted on Netlify, but we are planning to transition to IPFS for decentralized and distributed hosting.
 
 We welcome contributions and suggestions from developers and community members to help us improve and optimize the technical implementation of the platform. If you have any technical expertise or experience with the technologies used in our platform, please feel free to contribute to the project.
 
