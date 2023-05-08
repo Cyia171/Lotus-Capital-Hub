@@ -15,7 +15,15 @@ At Lotus Capital Hub, we believe in empowering startup founders to reach their f
 
 ## Getting Started
 
-To get started with the IDO Launchpad, you will need to connect your Ethereum wallet to the platform. You can then browse through the available IDO projects and invest in your preferred project.
+To get started with the IDO Launchpad, simply connect your MetaMask wallet to the platform. Once connected, you can browse through the available IDO projects and invest in your preferred project.
+
+## AML/KYC Verification
+
+At Lotus Capital Hub, we take our legal and regulatory responsibilities very seriously. As such, we require all users of our IDO Launchpad platform to undergo Anti-Money Laundering (AML) and Know Your Customer (KYC) verification checks before they can access the front end of the website. This is to ensure that we comply with all relevant laws and regulations and to prevent any fraudulent or illegal activity on our platform.
+
+To complete the AML/KYC checks, users will need to provide some personal and identifying information, such as their full name, date of birth, and government-issued identification. Our team will review the information and verify the user's identity before granting them access to the IDO Launchpad platform. We take user privacy and security seriously and all personal information is kept confidential and stored securely.
+
+We appreciate your cooperation in completing the AML/KYC verification process, as it helps to ensure the integrity and safety of our platform for all users.
 
 ## Contributing
 
@@ -28,3 +36,9 @@ If you have any questions or feedback about the IDO Launchpad, please feel free 
 ## License
 
 The IDO Launchpad is licensed under the [MIT License](LICENSE).
+
+## Legal Documentation:
+
+All legal documentation relating to Lotus Capital Hub may be found on our website at https://lotuscapitalhub.com/index.php/legal/. These documents contain essential information on topics such as our stance on cryptocurrency, Anti-Money Laundering (AML) and Know Your Customer (KYC) policies, and our privacy policy.
+
+By utilizing any services, products, or platforms offered by Lotus Capital Hub, you expressly agree to comply with and be bound by our legal documentation. Please review our legal documentation thoroughly before engaging in any activities related to Lotus Capital Hub to ensure your compliance with our policies and procedures.
