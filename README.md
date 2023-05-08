@@ -19,7 +19,15 @@ As a small startup ourselves, paying for a team of developers can be expensive. 
 
 ## Getting Started
 
-To get started with the IDO Launchpad, simply connect your MetaMask wallet to the platform. Once connected, you can browse through the available IDO projects and invest in your preferred project.
+Before you can access the IDO Launchpad, you must complete KYC/AML verification at lotuscapitalhub.com. If approved, you will be granted access and can follow these steps to get started:
+
+1. Connect your MetaMask wallet to the platform.
+2. Once connected, you can browse through the available IDO projects and invest in your preferred project.
+
+## Technical Implementation
+The IDO Launchpad platform is built using TypeScript and JavaScript for the front-end, and Solidity for the smart contracts on the BNB Chain. The user interface is developed using HTML, CSS, and JavaScript frameworks such as React and Redux. Currently, the platform is hosted on Netlify, but we are planning to move to IPFS for decentralized and distributed hosting.
+
+We welcome contributions and suggestions from developers and community members to help us improve and optimize the technical implementation of the platform. If you have any technical expertise or experience with the technologies used in our platform, please feel free to contribute to the project.
 
 ## AML/KYC Verification
 
