@@ -19,7 +19,7 @@ As a small startup ourselves, paying for a team of developers can be expensive. 
 
 ## Getting Started
 
-Before you can access the IDO Launchpad, you must complete KYC/AML verification at lotuscapitalhub.com. If approved, you will be granted access and can follow these steps to get started:
+Before you can access the IDO Launchpad, you must complete KYC/AML verification at https://lotuscapitalhub.com. If approved, you will be granted access and can follow these steps to get started:
 
 1. Connect your MetaMask wallet to the platform.
 2. Once connected, you can browse through the available IDO projects and invest in your preferred project.
